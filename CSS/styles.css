@@ -1,0 +1,16 @@
+
+/* Universal selectors */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#rcorners3 {
+    border-radius: 25px;
+    background: orange;
+    box-shadow: 50px 10px 10px 1px lightblue inset;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}

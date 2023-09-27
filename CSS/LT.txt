@@ -1,0 +1,11 @@
+
++ <div>: Used to create document sections  for which style can be specified
+  VD: a section of five paragraphs for which you want some particular style
++ Rounded Corners: using property border-radius: 5px;
++ box-shadow: 50px 10px 10px 1px lightblue;
++ Universal, Child, and Adjacent Selectors:
+  + Universal selectors: set global styles for a page
+  + Child selectors: A greater-than symbol (“>”) can be used to specify
+something that is a child of something else
+  + Adjacent selectors: A plus sign (“+”) is used to target an adjacent sibling
+of an element

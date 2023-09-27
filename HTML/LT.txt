@@ -1,0 +1,50 @@
+1. Tags and Elements
+  + Tags: <>
+  + Elements: <title></title> hay <p></p> ,...
+
+2. HTML doccuments:
+  + An HTML document is a collection of elements (text/media with context)
+  + an HTML document has two main structural elements
+     +  HEAD contains setup information for the browser & the Web page
+     +  BODY contains the actual content to be displayed in the Web page 
+  + HTML documents :
+     +  <html> and </html> tags
+     + Comments: <!-- and -->
+     + HEAD section: <head> and </head> tags
+     + BODY section: <body> and </body>
+
+3.HEAD section and BODY section:
+    + <head> element
+       + Title
+       +  Cascading Style sheet information
+       +  “Meta” data, such as who authored the page, keywords
+       +  JavaScript code
+
+    +  The <body> element
+       +  Paragraphs
+       +  Tables and lists
+       +  Images
+       + JavaScript code
+       +  PHP code
+4.Tags:
+    + <b>… </b>: bold
+    + <i>… </i> specify italics
+    + <em>…</em> put emphasis
+    + <strong>…</strong>: giống như <b>
+    + <sub>… </sub>: viết chữ nhỏ bên dưới kiểu Log2()
+    + <sup>… </sup>:  viết chữ nhỏ bên trên giống như số mũ
+    + <img src="URL (or filename)" height="n" width="n"
+alt="text" title= "text" />
+        + src - specifies the file name (and can include a URL)
+        +  width and/or height - dimensions in pixel
+        +  title - displayed when the mouse is “hovered” over the picture
+        + alt - text that is displayed when the image is missing, can’t be
+loaded
+
+5.CSS:
+  + inline style sheets apply to the content of a single HTML element
+    ->Using the style attribute, you can specify presentation
+style for a single HTML elemen
+  + document style sheets apply to the whole BODY of a document: use tags <style></style> in <head></head> of HTML
+  + external style sheets: external style sheets place the style definitions in separate files
+  + <span> is an inline element used to mark up a part of text
